@@ -36,7 +36,7 @@
         <!-- <Reviews /> -->
     </div>
     <div v-else class="container padding">
-        <!-- <PageNotFound /> -->
+        <PageNotFound />
     </div>
 </template>
 
