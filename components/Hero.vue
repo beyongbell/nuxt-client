@@ -22,6 +22,7 @@
         padding: 5rem 0;
         align-items: flex-start;
         justify-content: space-between;
+        margin-bottom: 8rem;
     }
     .text-container {
         width: 50%;
