@@ -25,7 +25,7 @@
 
 <style scoped>
     .padding {
-        padding: 1.5rem;
+        padding: 1rem;
         background-color: black
     }
     .nav-left {
